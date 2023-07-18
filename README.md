@@ -1,4 +1,4 @@
-## 📌Python_Basic_Week
+# Python Basic
 catatan dan latihan
 Coursera online course - Python basic by University of Michigan
 
@@ -9,6 +9,7 @@ Coursera online course - Python basic by University of Michigan
 
 ### 📒Python basics week 1
 ✅Introduction (Chapter 1)
+
 **Apa itu Python**
 
 Python merupakan bahasa pemograman tingkat tinggi yang berorientasi pada objek dengan *dynamic semantics*.
