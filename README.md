@@ -1,9 +1,14 @@
-# 📌Python_Basic_Week
+## 📌Python_Basic_Week
 catatan dan latihan
-Coursera online course - Python basic by University of Michigan (week 1)
+Coursera online course - Python basic by University of Michigan
 
-## 📒Python_basics week 1
-### ✅Introduction (Chapter 1)
+## 📌Table of Contents
+- [Python basics week 1](https://github.com/DiannitaOlipmimi/Python_Basic_Week#python_basics-week-1)
+- [Python basics week 2](https://github.com/DiannitaOlipmimi/Python_Basic_Week#pyhon-basic-week2)
+- [Python basics week 3](https://github.com/DiannitaOlipmimi/Python_Basic_Week#python_basic_week3)
+
+### 📒Python basics week 1
+✅Introduction (Chapter 1)
 **Apa itu Python**
 
 Python merupakan bahasa pemograman tingkat tinggi yang berorientasi pada objek dengan *dynamic semantics*.
@@ -17,14 +22,14 @@ Python merupakan bahasa pemograman tingkat tinggi yang berorientasi pada objek d
 4. Python Modules
 5. Python Turtle
 
-## 📒pyhon basic week2
+### 📒python basic week 2
 6. Sequences
 7. Iteration
 8. Conditionals
 9. Transforming Sequences
 10. Files
 
-## 📒python_basic_week3
+### 📒python basic week 3
 8. Conditional
 9. transform sequences
 10. files
